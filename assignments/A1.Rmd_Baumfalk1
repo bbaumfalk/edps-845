@@ -20,7 +20,9 @@ Your file should have an Rmd extension, and you should check that it compiles to
 ### Chapter 1
 
 1. Show that you can access the home page for the HTML R help menu, as well as help files for individual functions.
-
+```{r}
+#use ? to access help menu
+```
 2. Demonstrate correct and incorrect naming of R objects.
 
 3. How do you list all available objects in the R workspace? And how do you remove individual objects?
